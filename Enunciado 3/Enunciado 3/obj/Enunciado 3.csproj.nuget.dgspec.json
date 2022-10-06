@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj": {}
+    "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj": {
+    "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj",
+        "projectUniqueName": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj",
         "projectName": "Enunciado 3",
-        "projectPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj",
+        "projectPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 3\\Enunciado 3\\Enunciado 3.csproj",
         "packagesPath": "C:\\Users\\Pastor Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado 3\\Enunciado 3\\obj\\",
+        "outputPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 3\\Enunciado 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pastor Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
