@@ -1,0 +1,15 @@
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\bin\Debug\net6.0\Enunciado2.exe
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\bin\Debug\net6.0\Enunciado2.deps.json
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\bin\Debug\net6.0\Enunciado2.runtimeconfig.json
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\bin\Debug\net6.0\Enunciado2.dll
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\bin\Debug\net6.0\Enunciado2.pdb
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.csproj.AssemblyReference.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.AssemblyInfoInputs.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.AssemblyInfo.cs
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.csproj.CoreCompileInputs.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.dll
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\refint\Enunciado2.dll
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.pdb
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\Enunciado2.genruntimeconfig.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Enunciado2\Enunciado2\obj\Debug\net6.0\ref\Enunciado2.dll

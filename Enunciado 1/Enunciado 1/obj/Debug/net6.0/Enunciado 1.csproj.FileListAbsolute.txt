@@ -1,0 +1,15 @@
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\bin\Debug\net6.0\Enunciado 1.exe
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\bin\Debug\net6.0\Enunciado 1.deps.json
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\bin\Debug\net6.0\Enunciado 1.runtimeconfig.json
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\bin\Debug\net6.0\Enunciado 1.dll
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\bin\Debug\net6.0\Enunciado 1.pdb
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.csproj.AssemblyReference.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.AssemblyInfoInputs.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.AssemblyInfo.cs
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.csproj.CoreCompileInputs.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.dll
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\refint\Enunciado 1.dll
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.pdb
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\Enunciado 1.genruntimeconfig.cache
+C:\Users\Pastor Jose\OneDrive\Escritorio\Evaluacion programación 1\Enunciado 1\Enunciado 1\obj\Debug\net6.0\ref\Enunciado 1.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 1\\Enunciado 1\\Enunciado 1.csproj",
-      "projectName": "Enunciado 1",
-      "projectPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 1\\Enunciado 1\\Enunciado 1.csproj",
+      "projectUniqueName": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado2\\Enunciado2\\Enunciado2.csproj",
+      "projectName": "Enunciado2",
+      "projectPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado2\\Enunciado2\\Enunciado2.csproj",
       "packagesPath": "C:\\Users\\Pastor Jose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Evaluacion programación 1\\Enunciado 1\\Enunciado 1\\obj\\",
+      "outputPath": "C:\\Users\\Pastor Jose\\OneDrive\\Escritorio\\Enunciado2\\Enunciado2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pastor Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
